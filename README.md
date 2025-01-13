@@ -2,7 +2,7 @@
 This JavaFX program offers the following features:
 - Painting functionality with customizable brush size and color.
 - Eraser tool for easy removal of unwanted marks.
-- Ability to insert images, with the option to resize them (although the process may be a bit cumbersome).
+- Ability to insert images, with the option to resize them (although the process may be a bit... weird).
 - Creation of a new canvas with adjustable dimensions.
 - Save functionality to preserve your current work.
 
